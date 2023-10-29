@@ -1,0 +1,8 @@
+Carrera: Diseño y Programación Web,
+Cuatrimestre: 4to Cuatrimestre,
+Año: 2023,
+Turno: Turno Noche,
+Comisión: dwn4ap,
+Alumnos: Tomas Cahue, Florencia Velez
+Docente: Santiago Gallino
+Carácter de entrega: 1er Parcial
